@@ -27,10 +27,3 @@ A data mining and exploratory data analysis project applying association rule le
 ```bash
 jupyter notebook projet_BI.ipynb
 ```
-
-## CV Bullet Points
-- Applied association rule mining (Apriori algorithm) on a healthcare dataset to extract and validate 20 significant clinical risk factor rules for stroke prediction.
-- Performed data preprocessing, median BMI imputation, and intelligent discretization (binning) of continuous medical attributes.
-
-## Claims to Avoid
-- Do not claim clinical diagnostic deployment or medical advisory validation.
